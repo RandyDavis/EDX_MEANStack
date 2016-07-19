@@ -9,6 +9,7 @@
   "author": "Randy Davis",
   "license": "ISC",
   "dependencies": {
-    "underscore": "^1.8.3"
+    "underscore": "^1.8.3",
+    "mongodb": "2.0.35"
   }
 }
